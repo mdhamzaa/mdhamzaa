@@ -8,6 +8,10 @@
 
 [![telegram badge](https://img.shields.io/badge/mdhamzaa-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhamzaa&label=Profile%20views&color=0e75b6&style=flat" alt="mdhamzaa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdhamzaa" alt="mdhamzaa" /></a> </p>
+
 </div>
 
 <hr></hr>
@@ -61,7 +65,7 @@ class About extends Me {
 - <img alt="GIF" src="https://github.com/mdhamzaa/mdhamzaa/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/mdhamzaa/mdhamzaa/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/mdhamzaa/mdhamzaa/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/mdhamzaa/mdhamzaa/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂 𝙋⚡ 乂 𝘿](https://t.me/spxd007)**<br>
+- <img src="https://github.com/mdhamzaa/mdhamzaa/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Hamza](https://t.me/mdhamzaa)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/mdhamzaa/mdhamzaa/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
