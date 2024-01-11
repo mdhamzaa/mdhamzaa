@@ -4,13 +4,13 @@
 
 <img src="https://github.com/mdhamzaa/mdhamzaa/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mdhamzaa" alt="CoDiNg RocKs"  width="60%"/><br>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=mdhamzaa&style=flat&color=orange&label=PROFILE+VIEWS)
+
 
 [![telegram badge](https://img.shields.io/badge/mdhamzaa-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhamzaa&label=Profile%20views&color=0e75b6&style=flat" alt="mdhamzaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdhamzaa" alt="mdhamzaa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdhamzaa&theme=juicyfresh&no-frame=true" alt="mdhamzaa" /></a> </p>
 
 </div>
 
@@ -71,17 +71,17 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/mdhamzaa">
 
-<img src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/nord_dark/4-productive-time.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/2077/3-stats.svg" width="45%">
+<img src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/2077/1-repos-per-language.svg" width="45%">
+<img src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/2077/2-most-commit-language.svg" width="45%">
+<img src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/2077/4-productive-time.svg" width="45%">
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="https://raw.githubusercontent.com/mdhamzaa/profile-card/master/profile-summary-card-output/2077/0-profile-details.svg" >
 
 </details>
   
